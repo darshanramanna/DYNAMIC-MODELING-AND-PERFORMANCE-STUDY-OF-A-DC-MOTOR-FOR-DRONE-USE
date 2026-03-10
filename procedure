@@ -1,0 +1,21 @@
+AIM :
+To develop a mathematical model and simulate the speed–torque characteristics of a DC
+motor used in drone propulsion using simulation software and analyze motor behavior
+under different load conditions. Done in simulink matlab
+
+Simulation Procedure :
+1. Open the simulation software
+2. Create a new model workspace.
+3. Insert the DC motor model.
+4. Add voltage source to supply input voltage.
+5. Connect mechanical load to the motor shaft.
+6. Add sensors to measure motor speed.
+7. Set motor parameters.
+8. Apply different load torque values.
+9. Run the simulation.
+10.Observe speed–torque characteristics
+
+The simulation results show that the speed of the motor decreases when the load torque
+increases. This relationship represents the typical speed–torque characteristic of DC
+motors. Understanding this behavior helps in selecting suitable motors for drone
+propulsion systems. 
